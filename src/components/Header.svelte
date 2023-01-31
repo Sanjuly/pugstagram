@@ -6,7 +6,7 @@
 <style>
     .Header {
         background-color: rgba(38, 38, 38, 0.4);
-        position: absolute;
+        position: fixed;
         width: 100%;
     }
     .Header-container {
